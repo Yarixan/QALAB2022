@@ -20,6 +20,8 @@ public class Main {
 
         System.out.println("Velocidad Máxima: " + nis.getdVelocidadMaxima());
 
+        //Hola NTT Data
+
 /*
         Auto auto1 = new Auto();
 
